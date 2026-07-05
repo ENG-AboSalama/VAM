@@ -1,0 +1,371 @@
+2026-06-13 19:58:58,878 - services.henrik_api - INFO - batch_refresh started with 20 accounts
+2026-06-13 19:58:58,879 - services.henrik_api - INFO - Found 20 queryable accounts (with display_name and tag)
+2026-06-13 19:58:58,881 - services.henrik_api - DEBUG - Fetching account: ethan2957#11111
+2026-06-13 19:58:58,884 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.henrikdev.xyz:443
+2026-06-13 19:58:59,355 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ethan2957/11111 HTTP/1.1" 200 None
+2026-06-13 19:58:59,355 - services.henrik_api - DEBUG - Successfully fetched ethan2957#11111
+2026-06-13 19:58:59,357 - services.henrik_api - INFO - Updated ethan2957#11111 (username: ethan2957): level 4, region eu
+2026-06-13 19:58:59,357 - services.henrik_api - DEBUG - Fetching account: zoe324#11111
+2026-06-13 19:58:59,438 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/zoe324/11111 HTTP/1.1" 200 None
+2026-06-13 19:58:59,439 - services.henrik_api - DEBUG - Successfully fetched zoe324#11111
+2026-06-13 19:58:59,440 - services.henrik_api - INFO - Updated zoe324#11111 (username: zoe5739): level 4, region eu
+2026-06-13 19:58:59,440 - services.henrik_api - DEBUG - Fetching account: leo24321#11111
+2026-06-13 19:58:59,522 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/leo24321/11111 HTTP/1.1" 200 None
+2026-06-13 19:58:59,522 - services.henrik_api - DEBUG - Successfully fetched leo24321#11111
+2026-06-13 19:58:59,524 - services.henrik_api - INFO - Updated leo24321#11111 (username: leo16846): level 4, region eu
+2026-06-13 19:58:59,524 - services.henrik_api - DEBUG - Fetching account: mia7192#11111
+2026-06-13 19:58:59,605 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/mia7192/11111 HTTP/1.1" 200 None
+2026-06-13 19:58:59,605 - services.henrik_api - DEBUG - Successfully fetched mia7192#11111
+2026-06-13 19:58:59,607 - services.henrik_api - INFO - Updated mia7192#11111 (username: mia7192): level 4, region eu
+2026-06-13 19:58:59,607 - services.henrik_api - DEBUG - Fetching account: nao23#72834
+2026-06-13 19:58:59,688 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/nao23/72834 HTTP/1.1" 200 None
+2026-06-13 19:58:59,688 - services.henrik_api - DEBUG - Successfully fetched nao23#72834
+2026-06-13 19:58:59,689 - services.henrik_api - INFO - Updated nao23#72834 (username: noah5386): level 4, region eu
+2026-06-13 19:58:59,690 - services.henrik_api - DEBUG - Fetching account: ava324#y7834
+2026-06-13 19:58:59,770 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ava324/y7834 HTTP/1.1" 200 None
+2026-06-13 19:58:59,771 - services.henrik_api - DEBUG - Successfully fetched ava324#y7834
+2026-06-13 19:58:59,772 - services.henrik_api - INFO - Updated ava324#y7834 (username: ava24675): level 4, region eu
+2026-06-13 19:58:59,772 - services.henrik_api - DEBUG - Fetching account: liam643#42342
+2026-06-13 19:58:59,854 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/liam643/42342 HTTP/1.1" 200 None
+2026-06-13 19:58:59,854 - services.henrik_api - DEBUG - Successfully fetched liam643#42342
+2026-06-13 19:58:59,856 - services.henrik_api - INFO - Updated liam643#42342 (username: liam6821): level 4, region eu
+2026-06-13 19:58:59,856 - services.henrik_api - DEBUG - Fetching account: sophia34#23431
+2026-06-13 19:58:59,940 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/sophia34/23431 HTTP/1.1" 200 None
+2026-06-13 19:58:59,941 - services.henrik_api - DEBUG - Successfully fetched sophia34#23431
+2026-06-13 19:58:59,942 - services.henrik_api - INFO - Updated sophia34#23431 (username: sophia9647): level 4, region eu
+2026-06-13 19:58:59,942 - services.henrik_api - DEBUG - Fetching account: olivar23#41633
+2026-06-13 19:59:00,024 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/olivar23/41633 HTTP/1.1" 200 None
+2026-06-13 19:59:00,024 - services.henrik_api - DEBUG - Successfully fetched olivar23#41633
+2026-06-13 19:59:00,025 - services.henrik_api - INFO - Updated olivar23#41633 (username: oliver41637): level 4, region eu
+2026-06-13 19:59:00,026 - services.henrik_api - DEBUG - Fetching account: elijah5239#31243
+2026-06-13 19:59:00,107 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/elijah5239/31243 HTTP/1.1" 200 None
+2026-06-13 19:59:00,107 - services.henrik_api - DEBUG - Successfully fetched elijah5239#31243
+2026-06-13 19:59:00,109 - services.henrik_api - INFO - Updated elijah5239#31243 (username: elijah5239): level 4, region eu
+2026-06-13 19:59:00,109 - services.henrik_api - DEBUG - Fetching account: lisa716#47328
+2026-06-13 19:59:00,196 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/lisa716/47328 HTTP/1.1" 200 None
+2026-06-13 19:59:00,196 - services.henrik_api - DEBUG - Successfully fetched lisa716#47328
+2026-06-13 19:59:00,198 - services.henrik_api - INFO - Updated lisa716#47328 (username: isla7184): level 4, region eu
+2026-06-13 19:59:00,198 - services.henrik_api - DEBUG - Fetching account: lucas23#34324
+2026-06-13 19:59:00,279 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/lucas23/34324 HTTP/1.1" 200 None
+2026-06-13 19:59:00,279 - services.henrik_api - DEBUG - Successfully fetched lucas23#34324
+2026-06-13 19:59:00,280 - services.henrik_api - INFO - Updated lucas23#34324 (username: lucas27565): level 4, region eu
+2026-06-13 19:59:00,280 - services.henrik_api - DEBUG - Fetching account: chioe8142#34242
+2026-06-13 19:59:00,361 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/chioe8142/34242 HTTP/1.1" 200 None
+2026-06-13 19:59:00,362 - services.henrik_api - DEBUG - Successfully fetched chioe8142#34242
+2026-06-13 19:59:00,363 - services.henrik_api - INFO - Updated chioe8142#34242 (username: chloe8142): level 3, region eu
+2026-06-13 19:59:00,363 - services.henrik_api - DEBUG - Fetching account: mateo#78294
+2026-06-13 19:59:00,444 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/mateo/78294 HTTP/1.1" 200 None
+2026-06-13 19:59:00,445 - services.henrik_api - DEBUG - Successfully fetched mateo#78294
+2026-06-13 19:59:00,446 - services.henrik_api - INFO - Updated mateo#78294 (username: mateo5719): level 3, region eu
+2026-06-13 19:59:00,446 - services.henrik_api - DEBUG - Fetching account: ella625#78923
+2026-06-13 19:59:00,528 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ella625/78923 HTTP/1.1" 200 None
+2026-06-13 19:59:00,529 - services.henrik_api - DEBUG - Successfully fetched ella625#78923
+2026-06-13 19:59:00,530 - services.henrik_api - INFO - Updated ella625#78923 (username: ella6234): level 3, region eu
+2026-06-13 19:59:00,530 - services.henrik_api - DEBUG - Fetching account: benzima#56712
+2026-06-13 19:59:00,612 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/benzima/56712 HTTP/1.1" 200 None
+2026-06-13 19:59:00,612 - services.henrik_api - DEBUG - Successfully fetched benzima#56712
+2026-06-13 19:59:00,613 - services.henrik_api - INFO - Updated benzima#56712 (username: benjamin8627): level 3, region eu
+2026-06-13 19:59:00,613 - services.henrik_api - DEBUG - Fetching account: illy#56725
+2026-06-13 19:59:00,701 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/illy/56725 HTTP/1.1" 200 None
+2026-06-13 19:59:00,702 - services.henrik_api - DEBUG - Successfully fetched illy#56725
+2026-06-13 19:59:00,703 - services.henrik_api - INFO - Updated illy#56725 (username: lily3185): level 3, region eu
+2026-06-13 19:59:00,703 - services.henrik_api - DEBUG - Fetching account: james#78439
+2026-06-13 19:59:00,788 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/james/78439 HTTP/1.1" 200 None
+2026-06-13 19:59:00,788 - services.henrik_api - DEBUG - Successfully fetched james#78439
+2026-06-13 19:59:00,789 - services.henrik_api - INFO - Updated james#78439 (username: james7591): level 3, region eu
+2026-06-13 19:59:00,789 - services.henrik_api - DEBUG - Fetching account: gorge#62731
+2026-06-13 19:59:00,875 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/gorge/62731 HTTP/1.1" 200 None
+2026-06-13 19:59:00,876 - services.henrik_api - DEBUG - Successfully fetched gorge#62731
+2026-06-13 19:59:00,877 - services.henrik_api - INFO - Updated gorge#62731 (username: grace1496): level 3, region eu
+2026-06-13 19:59:00,878 - services.henrik_api - DEBUG - Fetching account: ethan#67823
+2026-06-13 19:59:00,958 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ethan/67823 HTTP/1.1" 200 None
+2026-06-13 19:59:00,959 - services.henrik_api - DEBUG - Successfully fetched ethan#67823
+2026-06-13 19:59:00,960 - services.henrik_api - INFO - Updated ethan#67823 (username: ethan5238): level 3, region eu
+2026-06-13 19:59:00,961 - services.henrik_api - INFO - batch_refresh completed: updated=20, failed=0, skipped=0
+2026-06-13 20:00:34,398 - services.henrik_api - INFO - batch_refresh started with 20 accounts
+2026-06-13 20:00:34,398 - services.henrik_api - INFO - Found 20 queryable accounts (with display_name and tag)
+2026-06-13 20:00:34,400 - services.henrik_api - DEBUG - Fetching account: ethan2957#11111
+2026-06-13 20:00:34,404 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.henrikdev.xyz:443
+2026-06-13 20:00:35,266 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ethan2957/11111 HTTP/1.1" 200 None
+2026-06-13 20:00:35,267 - services.henrik_api - DEBUG - Successfully fetched ethan2957#11111
+2026-06-13 20:00:35,268 - services.henrik_api - INFO - Updated ethan2957#11111 (username: ethan2957): level 4, region eu
+2026-06-13 20:00:35,268 - services.henrik_api - DEBUG - Fetching account: zoe324#11111
+2026-06-13 20:00:36,194 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/zoe324/11111 HTTP/1.1" 200 None
+2026-06-13 20:00:36,194 - services.henrik_api - DEBUG - Successfully fetched zoe324#11111
+2026-06-13 20:00:36,196 - services.henrik_api - INFO - Updated zoe324#11111 (username: zoe5739): level 4, region eu
+2026-06-13 20:00:36,196 - services.henrik_api - DEBUG - Fetching account: leo24321#11111
+2026-06-13 20:00:36,607 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/leo24321/11111 HTTP/1.1" 200 None
+2026-06-13 20:00:36,608 - services.henrik_api - DEBUG - Successfully fetched leo24321#11111
+2026-06-13 20:00:36,609 - services.henrik_api - INFO - Updated leo24321#11111 (username: leo16846): level 4, region eu
+2026-06-13 20:00:36,609 - services.henrik_api - DEBUG - Fetching account: mia7192#11111
+2026-06-13 20:00:36,974 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/mia7192/11111 HTTP/1.1" 200 None
+2026-06-13 20:00:36,975 - services.henrik_api - DEBUG - Successfully fetched mia7192#11111
+2026-06-13 20:00:36,976 - services.henrik_api - INFO - Updated mia7192#11111 (username: mia7192): level 4, region eu
+2026-06-13 20:00:36,976 - services.henrik_api - DEBUG - Fetching account: nao23#72834
+2026-06-13 20:00:37,471 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/nao23/72834 HTTP/1.1" 200 None
+2026-06-13 20:00:37,472 - services.henrik_api - DEBUG - Successfully fetched nao23#72834
+2026-06-13 20:00:37,474 - services.henrik_api - INFO - Updated nao23#72834 (username: noah5386): level 4, region eu
+2026-06-13 20:00:37,474 - services.henrik_api - DEBUG - Fetching account: ava324#y7834
+2026-06-13 20:00:37,976 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ava324/y7834 HTTP/1.1" 200 None
+2026-06-13 20:00:37,977 - services.henrik_api - DEBUG - Successfully fetched ava324#y7834
+2026-06-13 20:00:37,978 - services.henrik_api - INFO - Updated ava324#y7834 (username: ava24675): level 4, region eu
+2026-06-13 20:00:37,978 - services.henrik_api - DEBUG - Fetching account: liam643#42342
+2026-06-13 20:00:38,720 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/liam643/42342 HTTP/1.1" 200 None
+2026-06-13 20:00:38,721 - services.henrik_api - DEBUG - Successfully fetched liam643#42342
+2026-06-13 20:00:38,722 - services.henrik_api - INFO - Updated liam643#42342 (username: liam6821): level 4, region eu
+2026-06-13 20:00:38,722 - services.henrik_api - DEBUG - Fetching account: sophia34#23431
+2026-06-13 20:00:39,271 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/sophia34/23431 HTTP/1.1" 200 None
+2026-06-13 20:00:39,272 - services.henrik_api - DEBUG - Successfully fetched sophia34#23431
+2026-06-13 20:00:39,273 - services.henrik_api - INFO - Updated sophia34#23431 (username: sophia9647): level 4, region eu
+2026-06-13 20:00:39,273 - services.henrik_api - DEBUG - Fetching account: olivar23#41633
+2026-06-13 20:00:39,642 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/olivar23/41633 HTTP/1.1" 200 None
+2026-06-13 20:00:39,642 - services.henrik_api - DEBUG - Successfully fetched olivar23#41633
+2026-06-13 20:00:39,643 - services.henrik_api - INFO - Updated olivar23#41633 (username: oliver41637): level 4, region eu
+2026-06-13 20:00:39,644 - services.henrik_api - DEBUG - Fetching account: elijah5239#31243
+2026-06-13 20:00:40,045 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/elijah5239/31243 HTTP/1.1" 200 None
+2026-06-13 20:00:40,046 - services.henrik_api - DEBUG - Successfully fetched elijah5239#31243
+2026-06-13 20:00:40,047 - services.henrik_api - INFO - Updated elijah5239#31243 (username: elijah5239): level 4, region eu
+2026-06-13 20:00:40,047 - services.henrik_api - DEBUG - Fetching account: lisa716#47328
+2026-06-13 20:00:40,531 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/lisa716/47328 HTTP/1.1" 200 None
+2026-06-13 20:00:40,531 - services.henrik_api - DEBUG - Successfully fetched lisa716#47328
+2026-06-13 20:00:40,533 - services.henrik_api - INFO - Updated lisa716#47328 (username: isla7184): level 4, region eu
+2026-06-13 20:00:40,533 - services.henrik_api - DEBUG - Fetching account: lucas23#34324
+2026-06-13 20:00:41,148 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/lucas23/34324 HTTP/1.1" 200 None
+2026-06-13 20:00:41,148 - services.henrik_api - DEBUG - Successfully fetched lucas23#34324
+2026-06-13 20:00:41,150 - services.henrik_api - INFO - Updated lucas23#34324 (username: lucas27565): level 4, region eu
+2026-06-13 20:00:41,150 - services.henrik_api - DEBUG - Fetching account: chioe8142#34242
+2026-06-13 20:00:41,694 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/chioe8142/34242 HTTP/1.1" 200 None
+2026-06-13 20:00:41,695 - services.henrik_api - DEBUG - Successfully fetched chioe8142#34242
+2026-06-13 20:00:41,696 - services.henrik_api - INFO - Updated chioe8142#34242 (username: chloe8142): level 4, region eu
+2026-06-13 20:00:41,696 - services.henrik_api - DEBUG - Fetching account: mateo#78294
+2026-06-13 20:00:42,817 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/mateo/78294 HTTP/1.1" 200 None
+2026-06-13 20:00:42,818 - services.henrik_api - DEBUG - Successfully fetched mateo#78294
+2026-06-13 20:00:42,819 - services.henrik_api - INFO - Updated mateo#78294 (username: mateo5719): level 4, region eu
+2026-06-13 20:00:42,819 - services.henrik_api - DEBUG - Fetching account: ella625#78923
+2026-06-13 20:00:43,110 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ella625/78923 HTTP/1.1" 200 None
+2026-06-13 20:00:43,110 - services.henrik_api - DEBUG - Successfully fetched ella625#78923
+2026-06-13 20:00:43,111 - services.henrik_api - INFO - Updated ella625#78923 (username: ella6234): level 3, region eu
+2026-06-13 20:00:43,111 - services.henrik_api - DEBUG - Fetching account: benzima#56712
+2026-06-13 20:00:43,192 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/benzima/56712 HTTP/1.1" 429 167
+2026-06-13 20:00:43,193 - services.henrik_api - WARNING - Rate limited. Waiting 60s before retry
+2026-06-13 20:01:43,194 - services.henrik_api - DEBUG - Fetching account: benzima#56712
+2026-06-13 20:01:43,467 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/benzima/56712 HTTP/1.1" 200 None
+2026-06-13 20:01:43,468 - services.henrik_api - DEBUG - Successfully fetched benzima#56712
+2026-06-13 20:01:43,469 - services.henrik_api - INFO - Updated benzima#56712 (username: benjamin8627): level 3, region eu
+2026-06-13 20:01:43,469 - services.henrik_api - DEBUG - Fetching account: illy#56725
+2026-06-13 20:01:43,778 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/illy/56725 HTTP/1.1" 200 None
+2026-06-13 20:01:43,778 - services.henrik_api - DEBUG - Successfully fetched illy#56725
+2026-06-13 20:01:43,780 - services.henrik_api - INFO - Updated illy#56725 (username: lily3185): level 3, region eu
+2026-06-13 20:01:43,780 - services.henrik_api - DEBUG - Fetching account: james#78439
+2026-06-13 20:01:44,127 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/james/78439 HTTP/1.1" 200 None
+2026-06-13 20:01:44,127 - services.henrik_api - DEBUG - Successfully fetched james#78439
+2026-06-13 20:01:44,129 - services.henrik_api - INFO - Updated james#78439 (username: james7591): level 3, region eu
+2026-06-13 20:01:44,129 - services.henrik_api - DEBUG - Fetching account: gorge#62731
+2026-06-13 20:01:44,400 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/gorge/62731 HTTP/1.1" 200 None
+2026-06-13 20:01:44,401 - services.henrik_api - DEBUG - Successfully fetched gorge#62731
+2026-06-13 20:01:44,402 - services.henrik_api - INFO - Updated gorge#62731 (username: grace1496): level 3, region eu
+2026-06-13 20:01:44,402 - services.henrik_api - DEBUG - Fetching account: ethan#67823
+2026-06-13 20:01:44,702 - urllib3.connectionpool - DEBUG - https://api.henrikdev.xyz:443 "GET /valorant/v2/account/ethan/67823 HTTP/1.1" 200 None
+2026-06-13 20:01:44,702 - services.henrik_api - DEBUG - Successfully fetched ethan#67823
+2026-06-13 20:01:44,703 - services.henrik_api - INFO - Updated ethan#67823 (username: ethan5238): level 3, region eu
+2026-06-13 20:01:44,705 - services.henrik_api - INFO - batch_refresh completed: updated=20, failed=0, skipped=0
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully resolved (fallback): ella625#78923
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): benzima#56712
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): illy#56725
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): james#78439
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): gorge#62731
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): ethan#67823
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): mateo#78294
+[INFO] Successfully resolved after 0.1s
+[WARNING] Rate limited. Waiting 60s before retry
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully resolved (fallback): ethan2957#11111
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): zoe324#11111
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): nao23#72834
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): lisa716#47328
+[INFO] Successfully resolved after 0.1s
+[WARNING] Rate limited. Waiting 60s before retry
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully resolved (fallback): lucas23#34324
+[INFO] Successfully resolved after 0.1s
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Rate limited. Waiting 60s before retry
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully resolved (fallback): ella625#78923
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): benzima#56712
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): illy#56725
+[INFO] Successfully resolved after 0.1s
+[ERROR] Failed to resolve display name after all attempts
+[INFO] Successfully resolved (fallback): james#78439
+[INFO] Successfully resolved after 3.1s
+[INFO] Successfully resolved (fallback): gorge#62731
+[INFO] Successfully resolved after 0.1s
+[INFO] Successfully resolved (fallback): ethan#67823
+[INFO] Successfully resolved after 0.1s
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Rate limited. Waiting 60s before retry
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Rate limited. Waiting 60s before retry
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Timeout waiting for login after 30s
+[ERROR] Failed to resolve display name after all attempts
+[ERROR] Failed to resolve display name after all attempts
+[INFO] API key validation successful
+[INFO] Rate limited for benzima#56712. Needs 60s wait.
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Rate limited for benzima#56712. Needs 60s wait.
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Rate limited for olivar23#41633. Needs 60s wait.
+[INFO] Rate limited for james#78439. Needs 60s wait.
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Rate limited for benzima#56712. Needs 60s wait.
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Rate limited for benzima#56712. Needs 60s wait.
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[ERROR] Request timeout for leo24321#11111
+[ERROR] Failed to fetch leo24321#11111
+[INFO] Refresh: 19 OK | 1 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[INFO] Refresh: 20 OK | 0 failed | 0 skipped
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[WARNING] Cookie refresh failed, unexpected redirect: https://authenticate.riotgames.com/login?client_id=riot-client&nonce=1&redirect_uri=https%3A%2F%2Fauth.riotgames.com%2Fauthorize%3Fclient_id%3Driot-client%26nonce%3D1%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%252Fredirect%26response_type%3Dtoken%2520id_token%26scope%3Daccount%2520openid&response_type=token%20id_token&scope=account%20openid&locale=en-US&security_profile=low&method=riot_identity
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] Cannot fetch XP – no auth tokens available.
+[WARNING] Cannot fetch XP – no auth tokens available.
+[WARNING] Could not fetch account-xp for e06852fc-28ec-5072-a750-016dbf343413
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[INFO] Successfully refreshed session cookies via auth.riotgames.com
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] Could not fetch account-xp for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993
+[WARNING] account-xp API returned 403 for 2d412a03-2477-50ea-9342-50b8b2253993

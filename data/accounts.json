@@ -1,0 +1,1604 @@
+{
+  "accounts": [
+    {
+      "id": "00f64c2e-1f72-42e2-a7b7-4ebefcd6466d",
+      "username": "isla7184",
+      "password": "s8d1f4g7",
+      "display_name": "ava324",
+      "tag": "y7834",
+      "level": 18,
+      "region": "eu",
+      "puuid": "2d412a03-2477-50ea-9342-50b8b2253993",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:46:23.073779",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.550952",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814593895,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMTNkN2NmLTMzNWEtNGNlOC1iMDBkLTU4N2E0NDFiZTdlOCIsIm5vbmNlIjoicW9nWnpsQjZrTW89IiwiaWF0IjoxNzgzMDU3ODk0fQ.qUwU0LnVVRovpECWN_ThO4oATLkVph5djRvTd-TUiL8"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "OmYsy0ynQzRl0RlyOow5h9RP5F5E3gPgA_gr_ru9sUY"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "7thqgs7RIsXR3MOowJhsZA.kEaCtEERAAeeHyRDVho_1A"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNzdmYWIzZWItYTdmNC00MmE2LWEzMGQtMzlhYzliYjE4ZDMyIiwic3ViIjoiYzU4M2JjYzQtZWM1Mi01NzUyLWExNzUtZGJkYTA2NTI5M2QxIiwic2VyaWVzVG9rZW4iOiIyNGQ0MDhjOS03YjAwLTQ1ZDctOTQ2NS1kNTM0YTczNjBiMjAiLCJzc2lkIjoiN3RocWdzN1JJc1hSM01Pb3dKaHNaQS5rRWFDdEVFUkFBZWVIeVJEVmhvXzFBIiwiaWF0IjoxNzgzMDU3ODkzfQ.8zcufFY3VghSchoz7CXTIxnV9qVfcKdcxq-nYuL2Edw"
+        }
+      },
+      "xp": 4404
+    },
+    {
+      "id": "0abceddc-5968-417b-afae-f3b5847ac41e",
+      "username": "ava24675",
+      "password": "k8l1z4x7",
+      "display_name": "ava324",
+      "tag": "y7834",
+      "level": 18,
+      "region": "eu",
+      "puuid": "2d412a03-2477-50ea-9342-50b8b2253993",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:47:18.731468",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.548336",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689182,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgxMmUwZjlkLWQxOWUtNGQzOS04NDFlLWQ3NGI1Njk2YjgyZCIsIm5vbmNlIjoidnZnMXUrQXJNK3c9IiwiaWF0IjoxNzgzMTUzMTgyfQ.ZztQN6hE29PNmapUSlZVEV0Y4mmJDucrBVah2kwtkQ4"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "axnoOo7rAwll331qqP-Y_dLj1KTuE2KlcVEdOX2DUJw"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "cb_ooHqlA5PDtfnhxCdCBA.VkBfbVIMRdGAm0WoCZLChA"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMGUyYjE5MDYtMDJlOC00ZmIxLWE2MmMtYmYwM2I0Mzk0YzM1Iiwic3ViIjoiMmQ0MTJhMDMtMjQ3Ny01MGVhLTkzNDItNTBiOGIyMjUzOTkzIiwic2VyaWVzVG9rZW4iOiIzZmRhNjRkMS00MTE3LTQzNjItYTg1Zi1jYjEyZGFkNDJhZWQiLCJzc2lkIjoiY2Jfb29IcWxBNVBEdGZuaHhDZENCQS5Wa0JmYlZJTVJkR0FtMFdvQ1pMQ2hBIiwiaWF0IjoxNzgzMTUzMTgxfQ.VCeQnBwjt5DotkwikZDht5BQGLmwNjonqPCUPp8XvLs"
+        }
+      },
+      "xp": 4404
+    },
+    {
+      "id": "6c847d39-c0ee-42e5-8950-96350b915abb",
+      "username": "noah5386",
+      "password": "f4g7h0j3",
+      "display_name": "nao23",
+      "tag": "72834",
+      "level": 18,
+      "region": "eu",
+      "puuid": "eadbb06a-a549-56e8-bb70-a536ffc9ff2b",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:47:07.510953",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.547816",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814601488,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBkMWU2YWRlLTJiYWUtNDlhYy04YTVkLWM5MWM0ZjIyZTQ2ZCIsIm5vbmNlIjoiaVlReEszMXFVVjA9IiwiaWF0IjoxNzgzMDY1NDg3fQ.nhT_HSaa01DMWZvMvqpSspYiC9gX1Wsbb8ShVEi3tiQ"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "kysQyxKr-QjOGOlM7gn-92ze-3QxoOvI_UayzpBBc4s"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ngBtr8iTJjJgu4IcmpPANg.le6Bhz7CBioXoZBwacKtrw"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiZjgxMjg2YTEtNDlhYi00MjZkLTlhMjItODg2MGNiNDg2ZjcwIiwic3ViIjoiZWFkYmIwNmEtYTU0OS01NmU4LWJiNzAtYTUzNmZmYzlmZjJiIiwic2VyaWVzVG9rZW4iOiIwZTdiOWU4Yy1lZTkwLTRhZTgtYTg4NC1iMmJlY2VjZDhjMmUiLCJzc2lkIjoibmdCdHI4aVRKakpndTRJY21wUEFOZy5sZTZCaHo3Q0Jpb1hvWkJ3YWNLdHJ3IiwiaWF0IjoxNzgzMDY1NDg2fQ.X_uCIEfuFC_sZEabjCp8TSKyjKBhH4cgb1l1A3uN5J0"
+        }
+      },
+      "xp": 4011
+    },
+    {
+      "id": "906e8d1b-adbd-4a5f-b871-5c7bfd03318a",
+      "username": "oliver41637",
+      "password": "r0t3y6u9",
+      "display_name": "olivar23",
+      "tag": "41633",
+      "level": 18,
+      "region": "eu",
+      "puuid": "67958884-4623-5197-8d6c-44953c49463d",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:47:51.970344",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.549869",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689302,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJhY2E3OTYxLTFiNzQtNGE2NC04OGVmLWZmZTY5YTg2OThjNSIsIm5vbmNlIjoidFhPQ3I0Y2lGTW89IiwiaWF0IjoxNzgzMTUzMzAyfQ.NhX_8S7Od2jNPk-KEe4obJzglw_pe6jjwC5h6vo85sQ"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "MCD1G1PvLm2cyRYPDD-y477TSDBTe9XnKs1qQuuwdU0"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "kkTlKnI2IBx6NQBCbL4yLA.Rp7LRrYgoLo9jprztjUAQQ"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMjQzNmE4ZjUtN2ZiNi00ZTE2LWFkOGItODY5MTAxMjRmN2RlIiwic3ViIjoiNjc5NTg4ODQtNDYyMy01MTk3LThkNmMtNDQ5NTNjNDk0NjNkIiwic2VyaWVzVG9rZW4iOiIyMGMyMjBlYS00ZjE0LTRjMTQtYWJiMS04ZjQyZWM4YzJmOTkiLCJzc2lkIjoia2tUbEtuSTJJQng2TlFCQ2JMNHlMQS5ScDdMUnJZZ29MbzlqcHJ6dGpVQVFRIiwiaWF0IjoxNzgzMTUzMzAxfQ.IO40KwbAGhu-9NTxWVPlcdDP8YA3s2Lacgunj_ZB2oc"
+        }
+      },
+      "xp": 3926
+    },
+    {
+      "id": "f3aa2226-359e-4726-a5ab-d1c502aa52d6",
+      "username": "elijah5239",
+      "password": "i4o7p0a3",
+      "display_name": "elijah5239",
+      "tag": "31243",
+      "level": 18,
+      "region": "eu",
+      "puuid": "78b57cd0-a280-5fcc-9f4c-982ef08e3616",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:48:02.767339",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.550401",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689343,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjdjM2NjYzEyLWUzZDQtNGI2Mi1hZDdmLTg3OThlZjZjNDYxMSIsIm5vbmNlIjoicHFwMnBsV0ZXSVk9IiwiaWF0IjoxNzgzMTUzMzQzfQ.aX2z0wg4QGMrXwOc0PEuVfidgy2MbBEZwOk0CeySWIs"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "VIAs2SsbEruo51KW1IFKTBD7N0zGp5Ba1PM5c-OG8nQ"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "8DQs9AlDSuapEDH0rNAwKw.dti_WwG0kKT-pE7phUfB2w"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMTdjM2JlN2ItODYxMi00YTBjLWFmMzUtOTVlZjk5OGFjMGJjIiwic3ViIjoiNzhiNTdjZDAtYTI4MC01ZmNjLTlmNGMtOTgyZWYwOGUzNjE2Iiwic2VyaWVzVG9rZW4iOiJmYzQ5ZGMxYy0wYjBlLTQwODItYjI1Ni1mODIzMWFjMTczODgiLCJzc2lkIjoiOERRczlBbERTdWFwRURIMHJOQXdLdy5kdGlfV3dHMGtLVC1wRTdwaFVmQjJ3IiwiaWF0IjoxNzgzMTUzMzQxfQ.-lHsv8rvLJmMhQX-OQzhH5q_ioPGAv5JO4XS6tO0meY"
+        }
+      },
+      "xp": 3817
+    },
+    {
+      "id": "c4c48d3e-40a8-4d97-9dc1-e6c8ae4b140c",
+      "username": "liam6821",
+      "password": "c2v5b8n1",
+      "display_name": "liam643",
+      "tag": "42342",
+      "level": 18,
+      "region": "eu",
+      "puuid": "d828fe1c-71c6-57ed-a359-9f7a8f5aaeb9",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:47:30.053167",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.548849",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689222,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg3MzE0NTNlLTQzODMtNDY0YS1hMzYyLWEzNTk0ZDkyYTQ5ZCIsIm5vbmNlIjoiM0VoYmZ1b2dvVUE9IiwiaWF0IjoxNzgzMTUzMjIyfQ.D2E-pXsPf2-SuHnYBqhx0vwXdZHptewHnLy0kKRDyZ8"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "RhfOvLDOzWeI1KPQDmRRwh2RugGzr5r4-GPMYpsVkiI"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "YPhj8CcmKozUks8QZ1Eq-w.BQKzXjnQDsMxjKTCOXxkVw"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNWYyNGNmMWYtZWQ4ZC00ZGM2LTliYWMtYTk4OWQ2Yzk3N2QxIiwic3ViIjoiZDgyOGZlMWMtNzFjNi01N2VkLWEzNTktOWY3YThmNWFhZWI5Iiwic2VyaWVzVG9rZW4iOiI1MzY0OWYyMC02ZTFjLTQxYjYtYWE2Mi1kZjNjMmVmY2MxYzkiLCJzc2lkIjoiWVBoajhDY21Lb3pVa3M4UVoxRXEtdy5CUUt6WGpuUURzTXhqS1RDT1h4a1Z3IiwiaWF0IjoxNzgzMTUzMjIxfQ.0fskCHh8Cp_-mGrRRoJtKXN8faGST67KFr7zF7R3HvU"
+        }
+      },
+      "xp": 3813
+    },
+    {
+      "id": "d3b1c975-e99c-48f6-b751-37488bf744f4",
+      "username": "sophia9647",
+      "password": "m6q9w2e5",
+      "display_name": "sophia34",
+      "tag": "23431",
+      "level": 18,
+      "region": "eu",
+      "puuid": "e06852fc-28ec-5072-a750-016dbf343413",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:47:40.990307",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.549358",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689263,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjljOTc2MTQwLTFkY2MtNGIxZS05NTdlLWUzZmEwODgyZDdlZCIsIm5vbmNlIjoiRkEyQ1l5Tm1JVkE9IiwiaWF0IjoxNzgzMTUzMjYzfQ.JON4roJdzFmG0nVdRBWgREYAv1WzCLlTl8130UUHYls"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "usTt39ys71ly7HelQhMtwX8VTRUNUQVGwB2nVlueNXc"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ZuVb47Fp-66O4T2I-88FVw.BQPUlunEOJD4aPag5RUCVg"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMTg0NDRiMjMtMmQ5ZC00NmQwLWE1ZTUtZWI1MjhkZjE2NTlkIiwic3ViIjoiZTA2ODUyZmMtMjhlYy01MDcyLWE3NTAtMDE2ZGJmMzQzNDEzIiwic2VyaWVzVG9rZW4iOiIxZDE1YzBlOC0zY2E2LTQ0ZjUtODJlNy0wOGJiMDQ5YTZmOTQiLCJzc2lkIjoiWnVWYjQ3RnAtNjZPNFQySS04OEZWdy5CUVBVbHVuRU9KRDRhUGFnNVJVQ1ZnIiwiaWF0IjoxNzgzMTUzMjYyfQ.Hv03uJY-2pIw1a2ahTvGfntT8sPyaYXdjuhjxHM6CT0"
+        }
+      },
+      "xp": 3506
+    },
+    {
+      "id": "fbe077b6-520a-4e3b-95d2-79d29cd0af99",
+      "username": "lucas27565",
+      "password": "h2j5k8l1",
+      "display_name": "lucas23",
+      "tag": "34324",
+      "level": 18,
+      "region": "eu",
+      "puuid": "0c9f7b5f-8086-5144-9c30-1aa279d56d28",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:46:34.266746",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.551500",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814595328,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3NzBiMDYzLTBiMTktNDE5Ni1hMzM0LTVkZjRiZTNkZDM0NyIsIm5vbmNlIjoiaTA1QmtjbzRKQXc9IiwiaWF0IjoxNzgzMDU5MzI3fQ.dU-ONcYYFfI3tINJLRXPpPGIHhuqTmQ3_VieaXfp2k8"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "6io4VAputLCfIuKiYrl02WuEhd4Da6EgzAUWt4dBHhw"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "WK1WNyoBDSLxzhC23iI3vQ.Gq-i2DadIZMCkFEK8sKGaw"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMjYxNmI3NTUtMDEzMS00YjI3LTljYWUtNmUyMWZmMDdiMzVlIiwic3ViIjoiMGM5ZjdiNWYtODA4Ni01MTQ0LTljMzAtMWFhMjc5ZDU2ZDI4Iiwic2VyaWVzVG9rZW4iOiJiMDg1Y2U0Yi03OGQ3LTRlMGQtYjUyMi0yMGU1NmY5YjVhY2MiLCJzc2lkIjoiV0sxV055b0JEU0x4emhDMjNpSTN2US5HcS1pMkRhZElaTUNrRkVLOHNLR2F3IiwiaWF0IjoxNzgzMDU5MzI2fQ.hfl_COubBfzEGVs23_F-m-5nc_gPdliYAwJx0Zwa_YI"
+        }
+      },
+      "xp": 2223
+    },
+    {
+      "id": "686dbe6c-4cb1-464a-9bae-d8759ffc31cc",
+      "username": "ethan2957",
+      "password": "b8n1m4q7",
+      "display_name": "ava324",
+      "tag": "y7834",
+      "level": 18,
+      "region": "eu",
+      "puuid": "2d412a03-2477-50ea-9342-50b8b2253993",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T08:26:44.877623",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.545620",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814623206,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc2ZGY0MGRiLTY4ZDEtNDhlNy1iM2JiLTdkN2ZjMWE1YWEwZiIsIm5vbmNlIjoicXlNVXcrLzgvTWM9IiwiaWF0IjoxNzgzMDg3MjA2fQ.86eroOSoJRH3kzGrnYYdTKYiKesnlYQ87zTzFqSuQAM"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "p0mi_G854vJ1o1zl23bjrDbgC0ksYcb0A-1CCQT1B3g"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "4nrI4akBtuXSnT_5UoL7UQ.LoV-TMf2TBocumbTZHzgxA"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMjI3NDJiMjctMWU4Yy00OTgyLWFhNmEtOThlY2Y4M2I4ZDIyIiwic3ViIjoiNTA1NGEyNWItNmQxNS01YzFmLWE5ZGItN2NlMDVlYTk4MWRmIiwic2VyaWVzVG9rZW4iOiIzNjA3NGU2MC01MzQyLTQzODItYmUwZC1mYTUzZmQ5Y2FkZjUiLCJzc2lkIjoiNG5ySTRha0J0dVhTblRfNVVvTDdVUS5Mb1YtVE1mMlRCb2N1bWJUWkh6Z3hBIiwiaWF0IjoxNzgzMDg3MjA0fQ.t_XTdesyKsQ3pT4-q6mkcyjXJtEjChmjVjOPKZyNsYI"
+        }
+      },
+      "xp": 2176
+    },
+    {
+      "id": "91176feb-8405-4d56-91a9-e4ffbe09b4fe",
+      "username": "mia7192",
+      "password": "p0a3s6d9",
+      "display_name": "mia7192",
+      "tag": "11111",
+      "level": 18,
+      "region": "eu",
+      "puuid": "542a3c9e-4711-5a97-8d78-ae7813069770",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:12.054155",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.547320",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689132,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ3Yjk5MGFlLTQyMDEtNGRmZS1hNTdmLWMyOWUzMTQ1MzJiNiIsIm5vbmNlIjoiUi9IMmg5a05ma2M9IiwiaWF0IjoxNzgzMTUzMTMyfQ.MfAqHeuX2PBDgHD55fDSn3Wh2JkHfkMQxaWNmef-TEk"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "TTuq5nt_WK8yY70JiyhOii4Tg4FmD7Pd2_EByfIH4xs"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "noF767zhL9KfLSq9f5dBnQ.eTO4url59q-48-AFz0rdpw"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiYjg2MzA5OTMtMDViYS00M2QxLWE5ZDktMjdkZWEwMjM0MjZiIiwic3ViIjoiNTQyYTNjOWUtNDcxMS01YTk3LThkNzgtYWU3ODEzMDY5NzcwIiwic2VyaWVzVG9rZW4iOiIxZGJmNDUyMy1jYTI4LTQwMGUtOGRmNi02YTAzMDE3ZTQ3YTciLCJzc2lkIjoibm9GNzY3emhMOUtmTFNxOWY1ZEJuUS5lVE80dXJsNTlxLTQ4LUFGejByZHB3IiwiaWF0IjoxNzgzMTU5NDQ0fQ.JYd3mmwT9QMPYHAzlNx3QKhsXy83qwrknAptD3kWJH0"
+        },
+        "__cf_bm": {
+          "name": "__cf_bm",
+          "value": "a7yk6syqKHo.EJpFushAjc67vkDMPnrAQmuJ5F3Mr6c-1783159444.133152-1.0.1.1-avvA9Sr.q52tgbeSPKKDbfeBpYrxpJoh004sQ3JMv5UDA1uy7ngSYMuS833UZu.i1fflg2v02fYH9hCntfyG7Bvp2T.YbinwqP6wtzSSwEEasr.ktGjDBZWQZLtRle_t",
+          "domain": ".riotgames.com",
+          "path": "/",
+          "secure": true,
+          "hostOnly": false
+        }
+      },
+      "xp": 2175
+    },
+    {
+      "id": "6e88d06d-8859-4f26-933f-911b6db45b93",
+      "username": "zoe5739",
+      "password": "w2e5r8t1",
+      "display_name": "zoe324",
+      "tag": "11111",
+      "level": 18,
+      "region": "eu",
+      "puuid": "6d718a3c-f600-50cc-b8cc-863a38f0e68c",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T17:53:55.805157",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.546269",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689051,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYTk5YzM2LWNmMzUtNDg0Mi1hYzdmLTExMzMyYWNmYjVlMCIsIm5vbmNlIjoiZFM2dkN0dW54aEU9IiwiaWF0IjoxNzgzMTUzMDUxfQ.Jy7eZKCCcKp4bVM0kv_YeEiKTdc-sVuweO-Dfd6e4IY"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "6qTFdV7fazRZ0xFszju_gDsOJlcqyp0CPehREp7HJOo"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "3xOQJ99Y07hYNyO_BDnxFg.lL0e_ZkH_RJ12gx37lJg4A"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiZjc3YzE0ZmEtZjg0YS00MzMzLWIzMGYtMDlmM2Y4Yjc3NGZiIiwic3ViIjoiNmQ3MThhM2MtZjYwMC01MGNjLWI4Y2MtODYzYTM4ZjBlNjhjIiwic2VyaWVzVG9rZW4iOiJiNTIzNTQzYi1lY2MwLTQ1ZjEtODQ0My0zODAzYzk3ZWZlNmQiLCJzc2lkIjoiM3hPUUo5OVkwN2hZTnlPX0JEbnhGZy5sTDBlX1prSF9SSjEyZ3gzN2xKZzRBIiwiaWF0IjoxNzgzMjE5MjMzfQ.4Hb6-pNVJgfX4FhsGtTkEC6127DQ7PeSo5hpw_ZlRQE"
+        },
+        "__cf_bm": {
+          "name": "__cf_bm",
+          "value": "WWx._2aIcW3Y6kSlwlJMkhEdY8oCbv4fdTLAYFAOqY4-1783219233.1404066-1.0.1.1-_XmmTjqklCCyu2NGcXsQ1nMFkQ1Ui8DtuBU3ZeaVMrsjibTrjoWq_ZQ9_7xD3YS5KeY3QIjhhTjwejf04GotMDIuWkYrau8mSv9IZ.HlNcx7xJC2I7rmVUt0Ch4P1qQF",
+          "domain": ".riotgames.com",
+          "path": "/",
+          "secure": true,
+          "hostOnly": false
+        }
+      },
+      "xp": 2038
+    },
+    {
+      "id": "a1ddf646-b959-41b1-9b76-6d475a3c4fc6",
+      "username": "leo16846",
+      "password": "y6u9i2o5",
+      "display_name": "leo24321",
+      "tag": "11111",
+      "level": 18,
+      "region": "eu",
+      "puuid": "1f12c117-f022-5730-ae74-271abfa3b66a",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:01.241411",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.546817",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689092,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU3OWExZjkwLWJkYzItNDllNS05MTM0LWMxNzgzZjJjNTIwYiIsIm5vbmNlIjoiR0xvSWMwL2xoSVk9IiwiaWF0IjoxNzgzMTUzMDkyfQ.96YcUPVgQYt6f0l-ynMl4Jkrs3IEO0_AuPs5TGr2_DA"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "-t87irRIci5m-4yCznN9Xw-uwWm-eTqYtg7gz7CVaLk"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "or6UGSSrafYwsqx7UlEZAg.UXSO2_Kv5JXE6e3qK-aUAA"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiOTI1NmEyN2EtNjBiMC00NWU4LWEwYTctNTg1OTFhYWEyNDEwIiwic3ViIjoiMWYxMmMxMTctZjAyMi01NzMwLWFlNzQtMjcxYWJmYTNiNjZhIiwic2VyaWVzVG9rZW4iOiIwYjI4OGE5Yy1iZmI3LTRiN2MtODczNC1kNzYyZmM5ZDA3YzYiLCJzc2lkIjoib3I2VUdTU3JhZll3c3F4N1VsRVpBZy5VWFNPMl9LdjVKWEU2ZTNxSy1hVUFBIiwiaWF0IjoxNzgzMjE5MjY0fQ.0-r-KqBLfXuL4uB7rr9aVbfzcTi2wY4hLL-pK1O_WBY"
+        },
+        "__cf_bm": {
+          "name": "__cf_bm",
+          "value": "Aho8eOsaD09.Q1c2Vow5FgwdZ4i5foqOLl252FQO.8Y-1783219263.979124-1.0.1.1-Nes3iYe1nErpo_PIcxEbDzp5R87.6gKhqGr8XtvgUNq1j0SWIgE3z4gKQhqXFmx2nAWtNQF6a1wsh3zHW4pgYgihwsT65tfJhNFxMBsFEj51PFGI6JxxixwLFqhKfqSG",
+          "domain": ".riotgames.com",
+          "path": "/",
+          "secure": true,
+          "hostOnly": false
+        }
+      },
+      "xp": 1927
+    },
+    {
+      "id": "cc9a0b67-5089-44b4-8963-d1ad65a966af",
+      "username": "grace1496",
+      "password": "k0l3z6x9",
+      "display_name": "gorge",
+      "tag": "62731",
+      "level": 18,
+      "region": "eu",
+      "puuid": "e0e13eab-2eef-5f38-bcc3-e9bfe3e0f1ef",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:46:45.293217",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.555868",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814600566,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImIyMzliZmIzLTk5NmQtNGVkMC1hMGU5LTRmMjBhYjI1NmFlMiIsIm5vbmNlIjoidUk3TTlGY0FBYW89IiwiaWF0IjoxNzgzMDY0NTY1fQ.bKE9OcFVWZpe3pMJ-Odi5L12P7VvO5QoRfnxRlgVO6Y"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "Kzjte4oYDaOJycChS-1p2KPb7tvwvboZ3tOAX302HCc"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "t7FScwPR0-3IFRb-Ax5w2w._rEr-eDPpwBVmYFu9mm-CA"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNmQxZTE2NjUtYzI5MC00MGM1LThhYTAtOGZhZjVmZTYwOGE5Iiwic3ViIjoiZTBlMTNlYWItMmVlZi01ZjM4LWJjYzMtZTliZmUzZTBmMWVmIiwic2VyaWVzVG9rZW4iOiI2Y2U2MGU1OC0zZDczLTRlZDktYWU0YS0zYjExNWFiZmI3NWIiLCJzc2lkIjoidDdGU2N3UFIwLTNJRlJiLUF4NXcydy5fckVyLWVEUHB3QlZtWUZ1OW1tLUNBIiwiaWF0IjoxNzgzMDY0NTY0fQ.vEeg7TenGzyucz6qDDEKsX0hLN2tOB8UQAYnSIJNhzY"
+        }
+      },
+      "xp": 1330
+    },
+    {
+      "id": "b493a1bb-0a15-4967-a287-c87e3373b877",
+      "username": "mateo5719",
+      "password": "b0n3m6q9",
+      "display_name": "mateo",
+      "tag": "78294",
+      "level": 17,
+      "region": "eu",
+      "puuid": "67fc6533-1606-5822-95e6-cbdf4697ffa0",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:34.160974",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.552708",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689415,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJjMDBkYjk2LTU0Y2UtNDRlOC1hNTQ4LWNlOGVlNzg5ZWYyOCIsIm5vbmNlIjoicnFQOVdXNUtPa3M9IiwiaWF0IjoxNzgzMTUzNDE1fQ.tagFoMNE7cN2Y2fPSyuz4IrkXY3L5SUw9LB2I-MgVII"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "NIt26KgMcU40w2iSp-zzoHdf9OhYvD81mn3C6kA9VqQ"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "McMfai361L3P2K1L3PpQiA.twB2ibtcvPkaFiaGa2N98w"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiN2EzZTJhNjQtMGYwYi00N2I5LTgyYjQtMTg0NmQ3MWNlMjk5Iiwic3ViIjoiNjdmYzY1MzMtMTYwNi01ODIyLTk1ZTYtY2JkZjQ2OTdmZmEwIiwic2VyaWVzVG9rZW4iOiJlM2Y1YTZmNi1jMGQ1LTQ0ZDItYWUzZC03YWM2ZGI5OTQyODMiLCJzc2lkIjoiTWNNZmFpMzYxTDNQMksxTDNQcFFpQS50d0IyaWJ0Y3ZQa2FGaWFHYTJOOTh3IiwiaWF0IjoxNzgzMTUzNDE0fQ.-aTyUv75X5dYDi-yStreZHIRBSjvZpG2rIAB_YRLssE"
+        }
+      },
+      "xp": 4779
+    },
+    {
+      "id": "61712b2c-6a26-4d01-a057-539919cf50ba",
+      "username": "ethan5238",
+      "password": "c4v7b0n3",
+      "display_name": "ethan",
+      "tag": "67823",
+      "level": 17,
+      "region": "eu",
+      "puuid": "71417470-651c-5da7-83b1-b5436be91ad8",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:46:56.320795",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.556553",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814593232,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM5OGQ0ODg0LTg5YTEtNDZiOS04N2YwLWFlY2I4MzQ1Y2Y2NCIsIm5vbmNlIjoidUpBb0c3eFY3NmM9IiwiaWF0IjoxNzgzMDU3MjMxfQ.SHH7_cKYXCyfbHmOHSbru1-D20j_KzN6ZplkW4X5pEs"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "tXthSoisB4vwWbQ8C-kk3x0FmL6WFc-6d-FJOc6VLRk"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "TK-mhdgdPWf-0R_h3KVtrQ.JTkwEzohDE0h8cLroTOLbQ"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNTFlYzQ3YTctMTIyMC00MGJkLThiMjctOTVhYjA0YzlmZmEzIiwic3ViIjoiNzE0MTc0NzAtNjUxYy01ZGE3LTgzYjEtYjU0MzZiZTkxYWQ4Iiwic2VyaWVzVG9rZW4iOiI0MzFkMjQ4Mi02YWYwLTQyZDctYTBhZi0xZjdiYzA0MjVhYjAiLCJzc2lkIjoiVEstbWhkZ2RQV2YtMFJfaDNLVnRyUS5KVGt3RXpvaERFMGg4Y0xyb1RPTGJRIiwiaWF0IjoxNzgzMjE5MDY3fQ.UxjMP8fLQdryhntkOpFVotd6WJWPwGBJ7sft0U3Nw7A"
+        },
+        "__cf_bm": {
+          "name": "__cf_bm",
+          "value": "wIz.zCSSeYoisSEpzsIZjmGjUzRRUVQkiE2OF1YcJwQ-1783219067.8476083-1.0.1.1-edfDCT2yfZX4JiWYU11QuJlGfY9u1Md_.6W9HvOi8p8cqWAIUb6jcrkvg9t71XOBKQKJlBJiM3siBH15dZX7ukpeSDQCwGQ28hsWOOq48JAyzw.TXp5Pcf28p5TNfGcE",
+          "domain": ".riotgames.com",
+          "path": "/",
+          "secure": true,
+          "hostOnly": false
+        }
+      },
+      "xp": 4673
+    },
+    {
+      "id": "ca85084f-db53-4a39-89ca-3d05aa7deb57",
+      "username": "benjamin8627",
+      "password": "y8u1i4o7",
+      "display_name": "benzima",
+      "tag": "56712",
+      "level": 17,
+      "region": "eu",
+      "puuid": "18fcc76e-3508-5ebe-b7f1-a1f8b6269638",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:55.939790",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.553951",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689495,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImVmNGYzNWQyLWFhN2ItNDBhNy04MzQ1LWRkY2ViMzk2N2Q5MyIsIm5vbmNlIjoidG0rRkhlYXFpbjQ9IiwiaWF0IjoxNzgzMTUzNDk1fQ.GMrztj6CBq3DldCp_IF1tnHc74vaWVmyJbvXTxwHVnQ"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "4q_hPxP-v064Z51QUFkorcTaynRVgMDhYaRswy_mJ-M"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "PT4MZFTP44iAZlNdcqviaA.0agUNFTQEoj8_YhfMBkeXQ"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMmZmYzlhY2ItZjVmYi00ODQ1LTk2YjItZWVlNWZhZmFlMGM4Iiwic3ViIjoiMThmY2M3NmUtMzUwOC01ZWJlLWI3ZjEtYTFmOGI2MjY5NjM4Iiwic2VyaWVzVG9rZW4iOiIzZmI5MzQ1MC00ZDhmLTQ5YTItYWE3Ny1lMDVmNzJkZjJlMjAiLCJzc2lkIjoiUFQ0TVpGVFA0NGlBWmxOZGNxdmlhQS4wYWdVTkZUUUVvajhfWWhmTUJrZVhRIiwiaWF0IjoxNzgzMTUzNDk0fQ.g8c12qsQiLC4SMoOy5WthG23RHEiJjYhtbEx37UM1II"
+        }
+      },
+      "xp": 4622
+    },
+    {
+      "id": "63e896ee-6add-450b-a6b9-9ecaa091d542",
+      "username": "james7591",
+      "password": "f6g9h2j5",
+      "display_name": "james",
+      "tag": "78439",
+      "level": 17,
+      "region": "eu",
+      "puuid": "d7d192b4-ceae-5519-a27f-db5631a7cb0d",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:50:17.676665",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.555216",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814620177,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzYzVhZTdjLWRlNTUtNDQxYi05ZmJmLTJhYjllMzFjNTc2OSIsIm5vbmNlIjoiMWJyc3B0YjNwc1k9IiwiaWF0IjoxNzgzMDg0MTc2fQ.mFiiNW2M17d5tG5Wmhgy8kvofMwtEtYNBQajcne1sOI"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "ZGTxocfWK8amD84X9qS-uy8Ol3CWNX2vtJ3hooOcnAc"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "GnlWTAmyqBb0rYaoMcdUdQ.txgYVlI1g1ngPVDUERBJqQ"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNWZmYjRjNjktYjY0OS00MzM4LTg4OTctNDY3ODdlOTYxYjY1Iiwic3ViIjoiZDdkMTkyYjQtY2VhZS01NTE5LWEyN2YtZGI1NjMxYTdjYjBkIiwic2VyaWVzVG9rZW4iOiI1NTA4OGIyNC0xOTkyLTRkYjMtYmJmYS1hODlmMTQ5YjM5OTQiLCJzc2lkIjoiR25sV1RBbXlxQmIwcllhb01jZFVkUS50eGdZVmxJMWcxbmdQVkRVRVJCSnFRIiwiaWF0IjoxNzgzMjE5MDI3fQ.laouAcv8keudRIL8mA36tc24rlUyB5uL0oc8RK36eMs"
+        },
+        "__cf_bm": {
+          "name": "__cf_bm",
+          "value": "zvGAGQJyEjjeF4jotqbjKurrszrGCfJkzGeNTOxljU4-1783219027.1535797-1.0.1.1-yQeyDtl9SxkLCHbsUpL9LVcyMDXzPm_rbztkz7uEkEa60upFDqKJxKSro6jyYwnLBgQRqIQoyauuvzANITXQyVrY1gQwHdIfTkr0rfBGApKy8UkfBbyty1ocO.q0yP3F",
+          "domain": ".riotgames.com",
+          "path": "/",
+          "secure": true,
+          "hostOnly": false
+        }
+      },
+      "xp": 4606
+    },
+    {
+      "id": "7fc15e95-982f-44ab-b0a7-f879c3cc6fe2",
+      "username": "chloe8142",
+      "password": "z6x9c2v5",
+      "display_name": "chioe8142",
+      "tag": "34242",
+      "level": 17,
+      "region": "eu",
+      "puuid": "39306ec5-e05f-5b0d-8bf7-b69c87689b9e",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:23.208619",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.552093",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814617505,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMxYzlmYThkLTNmNGUtNDljZS05ZDg5LTMwNjg2MTlmNGM0YSIsIm5vbmNlIjoicWFGalIyRW1rUGM9IiwiaWF0IjoxNzgzMDgxNTA0fQ.dIxp1k6EcvBSNCvUx13Iog3hD14SHrciG8r0ktPqc5Y"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "-9bli6nhf6YbS-MLTN6-3Rf6kEadZePUZDf7cL5sHY8"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "zx__knvHyv2BT7K38bevHg.3uBVYUket025ZBP-ik2ucw"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiZGI1YTBlZGMtN2EwOS00ZDBiLWI4N2UtNTI5ZjEzMGJlM2Y0Iiwic3ViIjoiMzkzMDZlYzUtZTA1Zi01YjBkLThiZjctYjY5Yzg3Njg5YjllIiwic2VyaWVzVG9rZW4iOiI3NzMxZjRlMC00ZWQ0LTRlNDAtOTE3Yi00ODhjMDEwNDg2MWQiLCJzc2lkIjoienhfX2tudkh5djJCVDdLMzhiZXZIZy4zdUJWWVVrZXQwMjVaQlAtaWsydWN3IiwiaWF0IjoxNzgzMDgxNTAzfQ.8_37fefnMK8g_uY15_UGs_zlCuz2ewSCFHJIy-GWwiE"
+        }
+      },
+      "xp": 4487
+    },
+    {
+      "id": "08bbfa91-cf44-4d2d-a56f-b60ba867e6ba",
+      "username": "ella6234",
+      "password": "w4e7r0t3",
+      "display_name": "ella625",
+      "tag": "78923",
+      "level": 17,
+      "region": "eu",
+      "puuid": "1b42376b-e024-5182-8ad3-5c5bc8631e75",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:49:44.941318",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.553334",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814768492,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZkYWU1YzhlLWE5YmUtNDhjYi05MDY1LTc0YzllYTRkZGQ1MCIsIm5vbmNlIjoiV24wSm9OcE1xRm89IiwiaWF0IjoxNzgzMjMyNDkwfQ.i9v3XVHYSQCRYbTJ_UOZY3Yqa7HnRXRpGzGhTpC2y_k"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "nktaJ2T1Weey0iH9voBS3vQY7JcS473-OTi6Bmv7ksE"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "e4lXvk7r40TwL8qOZzElwQ.QlNa60Onh-9jaxtrCh0iSQ"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiMTE5MzA4ZDctZmI3Yi00M2M3LTljYWYtZTczZmQ2MzQzYjQxIiwic3ViIjoiMWI0MjM3NmItZTAyNC01MTgyLThhZDMtNWM1YmM4NjMxZTc1Iiwic2VyaWVzVG9rZW4iOiJkODA0YzM0MS1hYTZmLTRkNzYtOTUxYS1jMWIxMGU5N2E0NTkiLCJzc2lkIjoiZTRsWHZrN3I0MFR3TDhxT1p6RWx3US5RbE5hNjBPbmgtOWpheHRyQ2gwaVNRIiwiaWF0IjoxNzgzMjMyNDg5fQ._q6-mZXdpwEsKfraZ1vYfn667tHwzsp9YbGDYjKm1NQ"
+        }
+      },
+      "xp": 4055
+    },
+    {
+      "id": "58eadaec-6448-4eb7-9475-5a9c6e7b0366",
+      "username": "lily3185",
+      "password": "p2a5s8d1",
+      "display_name": "illy",
+      "tag": "56725",
+      "level": 17,
+      "region": "eu",
+      "puuid": "cc546583-ed46-5768-b186-90d424a560ac",
+      "status": "in_progress",
+      "last_fwotd": "2026-07-05T14:50:06.905046",
+      "fwotd_available": false,
+      "added_date": "2026-06-10T17:27:05.554567",
+      "cookies": {
+        "tdid": {
+          "domain": "riotgames.com",
+          "expiryTime": 1814689536,
+          "hostOnly": false,
+          "httpOnly": true,
+          "name": "tdid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJlMzk0N2U5LWM0ZTItNGNiMS1hNTFhLWRmMzRiNGMzYTQxNCIsIm5vbmNlIjoiNDlDR1N2NHZEcDg9IiwiaWF0IjoxNzgzMTUzNTM2fQ.4e3IcG8OOBocU_KW5tEfV1tjPAk9DQ2IVbVjSecakrE"
+        },
+        "asid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "asid",
+          "path": "/",
+          "persistent": false,
+          "secureOnly": true,
+          "value": "hzGHSJoYYnnlYOqheUVLq4tIA_tcXKYSOmnpqWpBbLo"
+        },
+        "ccid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ccid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "riot-client"
+        },
+        "clid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "clid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "ec1"
+        },
+        "csid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": false,
+          "name": "csid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "lmBzOtpv5CVjKowcbFTqsw.ZWcie_qzqvilDkicET7Xpg"
+        },
+        "ssid": {
+          "domain": "auth.riotgames.com",
+          "hostOnly": true,
+          "httpOnly": true,
+          "name": "ssid",
+          "path": "/",
+          "persistent": true,
+          "secureOnly": true,
+          "value": "eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRva2VuIjoiNzJkYjY0MDUtOWNmMy00N2UyLWFkMWItODBjYmZlYmQ4YWYzIiwic3ViIjoiY2M1NDY1ODMtZWQ0Ni01NzY4LWIxODYtOTBkNDI0YTU2MGFjIiwic2VyaWVzVG9rZW4iOiJiYTdhNWI4NS04ZTEzLTRhNDEtODQ1YS1hY2EzNmEyZWJlZjQiLCJzc2lkIjoibG1Cek90cHY1Q1ZqS293Y2JGVHFzdy5aV2NpZV9xenF2aWxEa2ljRVQ3WHBnIiwiaWF0IjoxNzgzMTUzNTM1fQ.M2CHn4pI2YMz6RVZ8t23xe7Kiu5vGX-qMQMsFMOpD_M"
+        }
+      },
+      "xp": 3972
+    }
+  ]
+}
